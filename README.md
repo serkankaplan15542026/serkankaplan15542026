@@ -9,4 +9,4 @@ serkankaplan15542026/serkankaplan15542026 is a ✨ special ✨ repository becaus
 You can click the Preview link to take a look at your changes.
 --->
 
-['deneme?'](https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.mp4)
+![Alt Text](https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif)
